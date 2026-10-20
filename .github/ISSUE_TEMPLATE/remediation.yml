@@ -1,0 +1,26 @@
+name: Remediation
+description: Repair a demonstrated prerequisite gap
+labels: [remediation]
+body:
+  - type: input
+    id: module
+    attributes:
+      label: Blocked module and failed assessment
+    validations:
+      required: true
+  - type: textarea
+    id: diagnosis
+    attributes:
+      label: Smallest failure, expected behavior and likely missing prerequisite
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: Targeted resource, simpler exercise, 5–15-hour budget and new retest
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Evidence, score and delayed review date

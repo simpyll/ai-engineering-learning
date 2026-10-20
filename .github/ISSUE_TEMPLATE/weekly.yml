@@ -1,0 +1,33 @@
+name: Weekly assignment
+description: One five-hour learning increment
+labels: [learning]
+body:
+  - type: input
+    id: week
+    attributes:
+      label: Canonical week and module
+      placeholder: W013 / S1.01
+    validations:
+      required: true
+  - type: textarea
+    id: prerequisites
+    attributes:
+      label: Prerequisite evidence and dependencies
+    validations:
+      required: true
+  - type: textarea
+    id: deliverable
+    attributes:
+      label: Deliverable and five-hour allocation from curriculum.json
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria from curriculum.json
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Results, evidence links, actual time and next review

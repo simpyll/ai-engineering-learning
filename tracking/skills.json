@@ -1,0 +1,1136 @@
+[
+  {
+    "stage": "S0",
+    "module": "S0.initial",
+    "skill": "Diagnostic baseline",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S1",
+    "module": "S1.01",
+    "skill": "Python abstractions",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S1",
+    "module": "S1.02",
+    "skill": "Design and debugging",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S1",
+    "module": "S1.03",
+    "skill": "Release engineering",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.01",
+    "skill": "Proofs and complexity",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.02",
+    "skill": "Sorting and hashing",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.03",
+    "skill": "Trees and heaps",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.04",
+    "skill": "Graphs",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.05",
+    "skill": "Dynamic programming",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.06",
+    "skill": "Index and ranking",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S2",
+    "module": "S2.07",
+    "skill": "Integration and interview",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.01",
+    "skill": "Relational modeling",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.02",
+    "skill": "SQL and transactions",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.03",
+    "skill": "HTTP and API contracts",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.04",
+    "skill": "Authentication and security",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.05",
+    "skill": "Reliable ingestion",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.06",
+    "skill": "Indexes and caching",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.07",
+    "skill": "Deployment and CI",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.08",
+    "skill": "Operations",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S3",
+    "module": "S3.09",
+    "skill": "Release and job checkpoint",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.01",
+    "skill": "Representation and architecture",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.02",
+    "skill": "C and memory",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.03",
+    "skill": "Processes and virtual memory",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.04",
+    "skill": "Threads and synchronization",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.05",
+    "skill": "Async and parallel work",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.06",
+    "skill": "Networking",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.07",
+    "skill": "Persistence and interpreters",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S4",
+    "module": "S4.08",
+    "skill": "Systems integration",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.01",
+    "skill": "Vectors and geometry",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.02",
+    "skill": "Linear algebra",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.03",
+    "skill": "Calculus",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.04",
+    "skill": "Probability",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.05",
+    "skill": "Inference and experiment design",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.06",
+    "skill": "Optimization",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.07",
+    "skill": "Information and numerics",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S5",
+    "module": "S5.08",
+    "skill": "Math gate",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.01",
+    "skill": "Data contracts and EDA",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.02",
+    "skill": "Regression from scratch",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.03",
+    "skill": "Classification from scratch",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.04",
+    "skill": "Trees and ensembles",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.05",
+    "skill": "Unsupervised learning",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.06",
+    "skill": "Evaluation and features",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.07",
+    "skill": "Robustness and calibration",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.08",
+    "skill": "Model service",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S6",
+    "module": "S6.09",
+    "skill": "ML release",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.01",
+    "skill": "Tensors and autograd",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.02",
+    "skill": "MLP and backpropagation",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.03",
+    "skill": "Training discipline",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.04",
+    "skill": "CNNs",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.05",
+    "skill": "Sequences and representations",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.06",
+    "skill": "Tokenizer and data",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.07",
+    "skill": "Attention",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.08",
+    "skill": "Transformer",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.09",
+    "skill": "Small LM training",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S7",
+    "module": "S7.10",
+    "skill": "DL release",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.01",
+    "skill": "Evaluation and baseline",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.02",
+    "skill": "Retrieval",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.03",
+    "skill": "Grounded answer service",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.04",
+    "skill": "Reliable tool workflows",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.05",
+    "skill": "Evaluation hardening",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.06",
+    "skill": "Fine-tuning and LoRA",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.07",
+    "skill": "Preference and synthetic data",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.08",
+    "skill": "Production reliability",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S8",
+    "module": "S8.09",
+    "skill": "AI application release",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.01",
+    "skill": "Serving baseline",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.02",
+    "skill": "Batching and scheduling",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.03",
+    "skill": "KV cache",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.04",
+    "skill": "Quantization",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.05",
+    "skill": "Serving engine comparison",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.06",
+    "skill": "Distributed data",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.07",
+    "skill": "Distributed training",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.08",
+    "skill": "Checkpoint and recovery",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.09",
+    "skill": "Profiling and capacity",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "S9",
+    "module": "S9.10",
+    "skill": "Systems release",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.01",
+    "skill": "Consistency model",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.02",
+    "skill": "Replication",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.03",
+    "skill": "Consensus fundamentals",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.04",
+    "skill": "Durable queue",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.05",
+    "skill": "Storage internals",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.06",
+    "skill": "Cloud primitives",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.07",
+    "skill": "Kubernetes",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.08",
+    "skill": "Scheduling",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.09",
+    "skill": "Observability",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.10",
+    "skill": "Reliability",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.11",
+    "skill": "Contribution",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B1",
+    "module": "B1.12",
+    "skill": "Infrastructure defense",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.01",
+    "skill": "C++ foundations",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.02",
+    "skill": "C++ interfaces",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.03",
+    "skill": "CPU performance",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.04",
+    "skill": "GPU architecture",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.05",
+    "skill": "CUDA vector operations",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.06",
+    "skill": "CUDA memory",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.07",
+    "skill": "CUDA matrix multiply",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.08",
+    "skill": "Numerical precision",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.09",
+    "skill": "Triton basics",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.10",
+    "skill": "Kernel fusion",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.11",
+    "skill": "Triton matmul",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.12",
+    "skill": "Profiling",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.13",
+    "skill": "Autotuning",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.14",
+    "skill": "Integration",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.15",
+    "skill": "Contribution",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B2",
+    "module": "B2.16",
+    "skill": "GPU defense",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.01",
+    "skill": "Paper selection",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.02",
+    "skill": "Literature map",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.03",
+    "skill": "Protocol",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.04",
+    "skill": "Baseline implementation",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.05",
+    "skill": "Method implementation",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.06",
+    "skill": "Pilot",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.07",
+    "skill": "Replication",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.08",
+    "skill": "Statistical analysis",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.09",
+    "skill": "Ablations",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.10",
+    "skill": "Extension",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.11",
+    "skill": "External feedback",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B3",
+    "module": "B3.12",
+    "skill": "Research defense",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.01",
+    "skill": "Language semantics",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.02",
+    "skill": "Lexer and parser",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.03",
+    "skill": "Type checking",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.04",
+    "skill": "IR generation",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.05",
+    "skill": "Control flow",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.06",
+    "skill": "Optimization basics",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.07",
+    "skill": "Numerical legality",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.08",
+    "skill": "JIT integration",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.09",
+    "skill": "Tensor lowering",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.10",
+    "skill": "Performance study",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.11",
+    "skill": "Contribution",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  },
+  {
+    "stage": "B4",
+    "module": "B4.12",
+    "skill": "Compiler defense",
+    "status": "not_started",
+    "evidence": [],
+    "assessment": null,
+    "review_due": null
+  }
+]
